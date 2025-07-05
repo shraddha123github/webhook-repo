@@ -1,0 +1,5 @@
+Should Have:
+flask
+Flask-cors
+ngrok
+pymongo
